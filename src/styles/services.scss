@@ -1,0 +1,11 @@
+@import "color";
+
+.services{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    > div{
+        width: 60%;
+
+    }
+}
